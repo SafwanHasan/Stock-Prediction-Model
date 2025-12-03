@@ -26,7 +26,9 @@ A public **Streamlit web app** is provided for exploring sentiment, stock perfor
 
 ## 📁 Repository Structure
 ├── final_dataset.csv # Merged dataset (Sentiment + CPI + EFFR + Stock Price)
+
 ├── model_weights/ # Trained LSTM weights
+
 ├── train.ipynb # Notebook for training the LSTM model
 ├── sentiment_processing.ipynb # FinBERT sentiment extraction notebook
 ├── README.md # This file
