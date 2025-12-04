@@ -151,8 +151,8 @@ Pandemics, rate hikes, and geopolitical events reduce model reliability.
 
 ## 🙌 Authors
 
-- **Million Solomon**  
 - **Safwan Hasan**
+- **Million Solomon**  
 
 Electrical & Computer Engineering  
 Toronto Metropolitan University
